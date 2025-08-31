@@ -1,5 +1,6 @@
 import Parser from 'rss-parser';
-import calendar from '../../../../data/calendar.json';
+import calendar from '../../../data/calendar.json';
+
 
 const parser = new Parser({ timeout: 10000 });
 
@@ -98,3 +99,4 @@ export default async function handler(req, res) {
     });
   }
 }
+
