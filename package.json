@@ -1,0 +1,16 @@
+{
+  "name": "field-notes-calendar",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
