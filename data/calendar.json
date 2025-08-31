@@ -1,0 +1,37 @@
+[
+  {
+    "name": "DSEI London",
+    "tier": "major",
+    "feeds": [
+      { "type": "rss", "url": "https://www.defenseadvancement.com/events/feed/" }
+    ]
+  },
+  {
+    "name": "NATO Summit 2025 (The Hague)",
+    "tier": "major",
+    "feeds": [
+      { "type": "rss", "url": "https://www.nato.int/cps/en/natohq/events.rss" }
+    ]
+  },
+  {
+    "name": "NATO CCDCOE Locked Shields",
+    "tier": "major",
+    "feeds": [
+      { "type": "rss", "url": "https://ccdcoe.org/feed/" }
+    ]
+  },
+  {
+    "name": "Export Controls – US DSCA Major Arms Sales",
+    "tier": "mid",
+    "feeds": [
+      { "type": "rss", "url": "https://www.dsca.mil/rss/major-arms-sales" }
+    ]
+  },
+  {
+    "name": "Export Controls – Federal Register (ITAR/EAR)",
+    "tier": "mid",
+    "feeds": [
+      { "type": "rss", "url": "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bterm%5D=itar" }
+    ]
+  }
+]
